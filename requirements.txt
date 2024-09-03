@@ -1,0 +1,13 @@
+Django
+djangorestframework
+numpy==1.26.4
+django-extensions
+python-dotenv
+psycopg2-binary
+semchunk 
+sentence-transformers
+tiktoken
+annoy
+sklearn
+psutil
+pgvector
